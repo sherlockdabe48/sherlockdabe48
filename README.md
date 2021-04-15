@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sherlockdabe48
-- 👀 I’m interested in many things such as final fantasy, programming, art and design
 - 🌱 I’m currently learning front-end developtment (Html, Css, JavaScript, React)
 
 <!---💞️ I’m looking to collaborate on ...
