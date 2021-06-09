@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sherlockdabe48
 - 🌱 I’m currently learning front-end developtment (Html, Css, JavaScript, React)
-- 🌱 I’m currently learning iOS development using Swift and SwiftUI
+- 🌱 and iOS development using Swift and SwiftUI
 
 <!---💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
