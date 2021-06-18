@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sherlockdabe48
-- 🌱 I’m an Swift and web-front-end learner.
+- 🌱 I’m an Novice level of Swift and web-front-end learner👨‍💻
 
 <!---💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
